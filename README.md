@@ -21,9 +21,9 @@ La clientela puede elegir entre un pago mensual o firmar un contrato de 1 o 2 a�
 Descripción de los datos
 Los datos consisten en archivos obtenidos de diferentes fuentes:
 
-contract.csv — información del contrato;
-personal.csv — datos personales del cliente;
-internet.csv — información sobre los servicios de Internet;
-phone.csv — información sobre los servicios telefónicos.
+- contract.csv — información del contrato;
+- personal.csv — datos personales del cliente;
+- internet.csv — información sobre los servicios de Internet;
+- phone.csv — información sobre los servicios telefónicos.
 
 En cada archivo, la columna customerID (ID de cliente) contiene un código único asignado a cada cliente. La información del contrato es válida a partir del 1 de febrero de 2020.
